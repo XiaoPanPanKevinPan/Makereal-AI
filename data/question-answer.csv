@@ -1,254 +1,412 @@
-prompt,response
-I have never done programming in my life. Can I take this bootcamp?,"Yes, this is the perfect bootcamp for anyone who has never done coding and wants to build a career in the IT/Data Analytics industry or just wants to perform better in your current job or business using data."
-Why should I trust Codebasics?,Till now 9000 + learners have benefitted from the quality of our courses. You can check the review section and also we have attached their LinkedIn profiles so that you can connect with them and ask directly.
-Is there any prerequisite for taking this bootcamp ?,"Our bootcamp is specifically designed for beginners with no prior experience in this field. The only prerequisite is that you need to have a functional laptop with at least 4GB ram, an internet connection, and a thrill to learn data analysis."
-"What datasets are used in this bootcamp? Is it some toy datasets or
- something that mimics a real-world business problem?",The datasets used in this bootcamp are crafted from scratch to mimic the real business world by consolidating our years of experience. The datasets not just contain more than a million rows but also cover multiple facets of the business.
-"I�m not sure if this bootcamp is good enough for me to invest some 
-money. What can I do?",We got you covered. Go ahead and watch our youtube videos if you like them and want to learn further then this bootcamp is the perfect extension.
-How can I contact the instructors for any doubts/support?,"We have created every lecture with a motive to explain everything in an easy-to-understand manner. While working on these lectures you could make mistakes in steps or have some doubts. You need to commit yourself to hold patience, make efforts & diagnose the errors yourself by googling in order to become truly job ready. For any questions, that Google cannot answer or if you hit a wall - we got you covered! You can join our active discord community. which is a dedicated platform to discuss & clear your doubts with fellow learners & mentors. "
-What if I don�t like this bootcamp?,As promised we will give you a 100% refund based on the guidelines (Please refer to our course refund policy before enrolling).
-Does this bootcamp have lifetime access?,Yes
-What is the duration of this bootcamp? How long will it last?,You can complete all courses in 3 months if you dedicate 2-3 hours per day.
-Can I attend this bootcamp while working full time?,Yes. This bootcamp is self-paced. You can learn on your own schedule.
-What kind of skills can I expect to learn in this bootcamp?,"You can expect to learn tech skills like Python, Excel, SQL, and Power BI along with other skills like basic project management, stakeholder management, communication skills, and Business knowledge for domains like Finance, Supply chain, Sales, and Marketing."
-Do you provide any job assistance?,"Yes, We help you with resume and interview preparation along with that we help you in building online credibility, and based on requirements we refer candidates to potential recruiters."
-"Is this bootcamp enough for me in Microsoft Power BI and
- Excel certifications?","Yes, this bootcamp will certainly help because we cover the majority of the skills measured in these exams. However, please be informed that this course focuses on Job ready aspects and not on all aspects required to clear the exams. In addition to this course, you might need to visit the official learning material designed by Microsoft which is available for free on their website."
-Do we have an EMI option?,No
-Do you provide any virtual internship?,Yes 
-Will this bootcamp guarantee me a job?,"The courses included in this bootcamp are done by 9000+ learners and many of them have secured a job which gives us ample confidence that you will be able to get a job. However, we want to be honest and do not want to make any impractical promises! Our guarantee is to prepare you for the job market by teaching the most relevant skills, knowledge & timeless principles good enough to fetch the job."
-"I have zero knowledge of Excel and belong to a non-technical
- background. Can I take this course?","Yes, this is the perfect course for anyone who has never worked on excel and wants to build a career in the IT/Data Analytics industry or just wants to perform better in their current job or business using data."
-What are the things I need to know before starting this course?,This course is for absolute beginners hence you do not need any specific skills other than basic familiarity with computers
-What is different in this course compared to hundreds of courses on the internet and free tutorials on YouTube?,Most of the courses available on the internet teach you how to build x & y without any business context and do not prepare you for real business world problem-solving. This course is rather an experience in which you will learn Excel by solving real-life use cases in an imaginary company called AtliQ Hardware. The tutorials are very easy to understand and also have a lot of fun elements into them so that you don�t get bored ??
-Can I add this course to my resume?,Yes. Absolutely you can mention the AtliQ Hardware project experience in your resume with the relevant skills that you will learn from this course
-I�m not sure if this course is good enough for me to invest some money. What can I do?,"Don�t worry. Many videos in this course are free so watch them to get an idea of the quality of teaching. Dhaval Patel (the course instructor) runs a popular data science YouTube channel called Codebasics. On that, you can watch his videos and read comments to get an idea of his teaching style"
-What dataset is used in this course? Is it some toy dataset or something that mimics a real-world problem?,"For initial basics, we have used a toy dataset of movies but for advanced concepts, we used a dataset that is crafted to mimic the real business world by consolidating our years of experience and the FMCG industry. That dataset contains more than 1 million records."
-"Once purchased, is this course available for lifetime access?",Yes
-How can I get help if I have a doubt and need support?,We have an active discord server where you can post your question and most of the time you will get an answer in a reasonable time frame.
-I have never done programming and belong to a non-technical background. Can I take this course?,"Yes, this is the perfect course for anyone who has never done coding and wants to build a career in the IT/Data Analytics industry or just wants to perform better in their current job or business using data."
-"
-I don�t have a laptop, can I take this course?",We recommend learning by doing and therefore you need to have a laptop or a PC (at least 4 GB ram).
-Will the course help me in PL - 300 Microsoft exam preparation?,"Yes, this course will certainly help because we cover the majority of the skills measured in the PL - 300 exam in this course. However, please be informed that this course focuses on Job ready aspects and not on all aspects required to clear PL - 300 exam. In addition to this course, you might need to visit the official learning material designed by Microsoft which is available for free -> https://docs.microsoft.com/en-us/certifications/exams/pl-300?tab=tab-learning-paths"
-Will the course be upgraded when there are new features in Power BI?,"Yes, the course will be upgraded periodically based on the new features in Power BI, and learners who have already bought this course will have free access to the upgrades."
-"I use tableau, can I take this course?","Yes, you will still benefit from the concepts outside the tools that are discussed in this course such as business context, problem solving, project management tools, etc."
-"
-Power BI or Tableau which one is better?","This is a contextual question. If you are talking about a pure visualization tool Tableau is slightly better. Data connectors, modeling and transformation features are available in both. However, factually speaking Power BI is cheaper and offers tighter integration with the Microsoft environment. Since most companies use excel & Microsoft tools they start with Power BI or move towards Power BI for seamless integration with other Microsoft tools (called as Power platform). This makes the job openings grow at a much higher rate on Power BI and Power Platform. Also, Power BI has been leading the Gartner�s magic quadrant in BI for the last few years as the industry leader."
-What dataset is used in this course? Is it some Toy dataset or something that mimics a real-world business problem?,"The dataset used in this course is crafted from scratch to mimic the real business world by consolidating our years of experience. The dataset not just contains more than a million rows but also covers multiple facets of business data such as sales, finance, targets, forecasts, products, etc."
-Does Power BI work in Mac OS/Ubuntu?,"Power BI desktop works only in Windows OS. Please look into the system requirements section on this page. However, you can use a virtual machine to install and work with Power BI in other Operating systems."
-What business concepts and domains are covered in this course?,"We have covered the core functions such as Sales, Marketing, Finance, and Supply Chain with their fundamentals related to this course. The domain you will learn in this course is consumer goods which is projected to have more openings and high data analytics requirements at least until 2030."
-Will this course guarantee me a job?,"We created a much lighter version of this course on YouTube available for free (click this link) and many people gave us feedback that they were able to fetch jobs (see testimonials). Now this paid course is at least 5x better than the YouTube course which gives us ample confidence that you will be able to get a job. However, we want to be honest and do not want to make any impractical promises! Our guarantee is to prepare you for the job market by teaching the most relevant skills, knowledge & timeless principles good enough to fetch the job."
-"Can I add this course to my resume? If Yes, how?","Absolutely, we have a section in this course explaining how you can add the learnings from this course in your resume that will appeal to the hiring team."
-Is there any prerequisite for taking this course?,"The only prerequisite is that you need to have a functional laptop with at least 4GB ram, internet connection and a thrill to learn data analysis."
-What is different in this course from thousands of other Power BI courses available online?,"Most of the courses available on the internet teach you how to build x & y without any business context and do not prepare you for the real business world. This course is rather an experience in which you will learn how to use Power BI & other non-technical skills to solve a real-life business problem using analytics. Here you focus on solving a business problem and in that process learn how Power BI can be used as a tool. This is how you will do the work when you start working as a data analyst/ Business analyst/ Power BI developer in the industry. This course will prepare you for not just fetching the job but, shine in it & grow further."
-"I already know basic Power BI, what benefit do I get by taking this course?","This course is taught through a true end-to-end project in a Consumer goods company involving all the steps mimicking the real business environment, so you will learn how to execute end-to-end projects Power BI projects successfully along with the business fundamentals. You will learn a lot of extra things such as Project management tools, effective communication techniques & organizational nuances."
-How to install power pivot if its not available in system?,"Follow this thread for instructions - https://support.microsoft.com/en-us/office/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8
-If it doesn't show in the ribbon then go to ""insert"" tab. You will be able to see pivot table option there."
-"Hi all, could someone please help me understand what I am writing wrong in this code?","Go to ChatGPT (https://chat.openai.com/) and type this command
+問題,回答內容,延伸閱讀或連結,相關法規,提供單位
+創客俱樂部的英文翻譯,"翻譯成 Makereal Labs 就好囉！請注意，Makereal 是由 Make 跟 Real 合成的字，中間不加空格，也只有一個 R 喔！
 
-Debug me this code ( copy paste your code)
+註：原本的全名是 Makereal Labs NCTU。而如今因應合校，改名為 NYCU Makereal Labs (NCTU)。但是原本的全名依然偶爾會被作為簡稱使用喔！更多詳情，請至社團入口網參考創客俱樂部的組織章程。","社團入口網： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 
+國立陽明交通大學學生社團設置及輔導辦法： https://osa.nycu.edu.tw/osa/ch/app/data/doc?module=nycu0014&detailNo=1187646291388141568&type=s ","〈Makereal Labs 組織章程〉（2024 年修訂）
+〈國立陽明交通大學學生社團設置及輔導辦法〉",
+創客俱樂部是否有指導老師,有喔！是任職於電機工程學系與電子所的陳建安助教。歡迎大家選修他的電子實驗課！,,,
+創客俱樂部的指導老師是誰,是任職於電機工程學系與電子所的陳建安助教。歡迎大家選修他的電子實驗課！,,,
+創客俱樂部的指導老師背景,陳建安助教任職於電機工程學系與電子所，並且為電機系開設電子實驗課程。歡迎大家選修！,,,
+創客俱樂部的社長是誰,創客俱樂部的第九屆社長是簡惠心，任期自 112 下半學年度至 113 上半學年度。最新資訊請見創客社 Facebook 與官方網頁！,,,
+創客俱樂部社長的聯絡方式,"現任（第九屆）社長簡惠心的校務信箱是 comet112511092.ee12@nycu.edu.tw
+第九屆幹部任期自 112 下半學年度至 113 上半學年度",,,
+創客俱樂部的副社長是誰,創客俱樂部的第九屆副社長是潘仰祐，任期自 112 下半學年度至 113 上半學年度。最新資訊請見創客社 Facebook 與官方網頁！,,,
+創客俱樂部副社長的聯絡方式,"現任（第九屆）副社長的校務信箱是 kevinpan.cs12@nycu.edu.tw
+（註：第九屆幹部任期自 112 下半學年度至 113 上半學年度）",,,
+創客俱樂部有多少成員,創客社是有一百人左右的大社團喔！每個學期，我們都會有十幾二十人加入社團。,,,
+創客俱樂部的歷屆社長,第一屆的社長是資工系張楹翔學長，第二第三屆的社長是機械系王毓凱學長，第四屆的社長是電機系沈俊宇學長，第五屆的社長是資工系朱庭怡學姐，第六屆的社長是資工系林芷瑩學姐，第七屆的社長是電機系曾子薰學姐，第八屆的社長是電機系陳冠勳學長。然而追溯到好幾屆以前，最值得我們紀念的是第四屆的電機系沈俊宇學長：他成功帶領了創客俱樂部走過倒社危機，但他接幹的時候才大一而已！時至今日，他依然不時蒞臨創客社，而創客社也在 112 學年度的社團評鑑中拿到了優等呢！,交大校區課活組 FB 112 學年度社團評鑑結果： https://www.facebook.com/photo/?fbid=415513707928549&set=a.126539426825980,,
+創客俱樂部的社友有誰,有許多交大校友。據瞭解，第0、第1屆學長姐多半在矽谷活動，在台灣的學長姐目前在多半從事半導體、晶片設計、演算法、網頁全端等領域，如聯發科、聯詠、微軟、趨勢科技等一線公司，以及投入新創等，他們之中的許多人已在國外獲得工作資格，可謂人生勝利組。,,,
+創客俱樂部歷史,"創客俱樂部一開始是為了要打比賽而成型的社團，由機械系學長岳朝國主揪。第一屆社長是資工系學長張楹翔。
+第二、三屆時，有與聯發科下的卓爾榮譽學會，以及工研院合作過，並舉辦創客方程式（一日營的形式）。但營隊辦完之後，社團曾經有虧損而差點倒社，由時任社長（機械系學長王毓愷）將缺額補上後，交給下一屆。
+第四屆社長電機系學長沈俊宇。透過創客營的模式，召集電機系中對創客有興趣的學長，並累積了一些資產，使得本社起死回生。
+第五、六屆時，由於受到疫情影響，2020 暑創停辦，而 2021 寒創、2021 暑創與 2022 寒創轉為線上非同步，建立了完善的線上制度。但沒有實體營隊下，小隊員間與工人間都沒有互動，所以當時社團凝聚力稍嫌不足。從第六屆開始，本社保持在社團評鑑甲等甚至優等。
+第七屆時，社團回歸實體，並且擴展了社交媒體上的觸及（如 Instagram 上積極接觸各社團）。自此本社平穩發展至今。",,,
+創客俱樂部簡介,國立陽明交通大學創客俱樂部是一個積極新創、內容齊全、學術實力雄厚、創社特色鮮明，在本校內具有重要影響力與競爭力的學藝性社團，在多個科技領域具有前瞻的學術實力，擁有社團界一流的實驗室與師資力量，各種排名均位於本校前列。歡迎大家加入創客俱樂部。,,,
+創客俱樂部成立多久了,2015 年為第 0 屆的籌備型社團、2016 為第 1 屆的正式社團。時至今日，我們已即將邁入第十年了呢！,,,
+創客俱樂部社辦在哪裡,"依照〈Makereal Labs 組織章程〉第 2 條第 1 項：
+> 本社以國立陽明交通大學交大校區（新竹市大學路 1001 號）工程四館 417B-1 室為實驗室與學習場所；以活動中心 528 室為社團辦公室。
+其他細節，也可以參閱創客俱樂部官網。","創客俱樂部官網： https://makereallabs.nycu.me 
+社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ",〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部平常社辦會有人在嗎 ,由於器械擺放位置與活動內容，位在活動中心的社辦平常不會有太多人，到位在工程四館 417B-1 的實驗室比較容易找到人喔！,,,
+創客俱樂部的網站,"社團官網： https://makereallabs.nycu.me 
 
+另請參閱：
+- Facebook： https://www.facebook.com/Makereal.Labs 
+- Instagram： https://www.instagram.com/makereallabs_nctu ",,,
+創客俱樂部在幹嘛,玩雷切機、3D 列印機等等。核心概念是「自己設計，自己實作」，期望大家能貫徹我大陽明交通大學（前身交通大學）舊校徽上，ESA 所代表的 Engineering（工程）、Science（科學） 與 Administration（管理） 中的 E 跟 S。,,,
+簡單介紹一下創客俱樂部,"定期活動上，一個學期會有一次茶會，與兩次或三次社課（材料費自付）。而目前規劃上，未來會在沒有社課的或茶會的那幾週，舉辦 Maker's Night，方便大家使用器材與交流感情。
 
-Why I am suggesting this way is once you learn it you will love it. 
-And it will be SUPER USEFUL in your career when you get a data analyst jobs. Companies love folks who are capable of finding their answers on their own (Using Google, ChatGPT etc.)"
-"I am getting this error, what is wrong?","Go to ChatGPT (https://chat.openai.com/) and type this command
+課程內容上，曾經有 __水舞喇叭__ 、 __巨集鍵盤__ 、 __深淵燈__ 、 __相撲車__ 、 __螢幕掛燈__ 。本屆（第九屆，112 學年度下半到 113 上半）有過的課程是 __Cyber Cube 環氧樹酯燈__ 與 __視覺暫留炫光鐘__ ，規劃中的課程是 __自製夾娃娃機__ 與 __特務眼鏡__ 。歡迎大家來參加！
 
-Debug me this code ( copy paste your code) and also provide the error you are getting
+創客俱樂部在每年寒暑假都會舉辦創客營，供高中生們進行興趣與學系探索。歡迎國三畢業生與高中生們來參加營隊；也歡迎大學生們來當工人，認識強者與學習技術！",,,
+創客俱樂部有什麼特色,本社是全臺灣少數的大學校內創客社團，而且不需聘請社師便可以傳承技術與能力，有能力自行研發社課與專案作品。另外，本社於校區內社團評鑑連年獲得優異成績，今年度（112 學年度）更獲得學藝性社團最高殊榮「優等」！,交大校區課活組 FB 112 學年度社團評鑑結果： https://www.facebook.com/photo/?fbid=415513707928549&set=a.126539426825980,,
+創客俱樂部如何招募新成員,本社在社課、茶會與寒暑假營隊籌備期間，皆會招募有志一同的人才加入。只需繳納 500 元社費，即成為社員，並享有使用社辦器材的權利！更多資訊請參考〈Makereal Labs 組織章程〉，或聯絡創客俱樂部 Facebook 粉絲專頁。,"社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 
+Facebook： https://www.facebook.com/Makereal.Labs  ",〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部會舉辦哪些活動吸引學生加入,本社會在社團博覽會上宣傳社團，也會在每學年初舉辦迎新茶會；如果學校允許，也會在學系博覽會與交大日時擺攤。這些都是加入創客社的好時機！但是，錯過了也不用擔心，在找到有興趣的社課時，你可以在報名表單中選擇「我要入社」，從當次報名起你就享有社員優惠囉！,,,
+創客俱樂部是什麼性質的社團,創客俱樂部屬於陽明交通大學社團分類下的「學藝性」社團。「學」的方面，創客社的課程要求工程實務上的技術；「藝」的方面，創客社做出的東西兼具實用價值與美觀，而且十分有趣。,,,
+創客俱樂部有哪些贊助商,社團初期是由聯發科教育基金會以及國立交通大學電子所一同贊助支持，在初期的活動資金以及社團器材、場地上有非常大的支持，而Niche 你需科技女力是近期本社的贊助團隊。他們致力於推廣女性 STEM 教育，希望能迎來性別平等、人人不再過度地受性別刻板印象拘束的未來！,,,
+創客俱樂部有哪些合作單位,本社時常舉辦面向社會大眾的 Maker 活動，故與許多高中職以下各級學校有過合作關係。我們曾經合作過的對象有：臺中一中科學班、新竹女中、花蓮縣立國風國中等，並且預計於今年暑假前往竹北高中服務。,,,
+創客俱樂部的傳統,尊重每屆社長幹部團隊的發展策略，每屆幹部都是當下最好的人選，相信時代、相信夥伴與自己。比較有趣的是交大創客社的幹部群，會在大一下的時候完成交接，是許多社團中非常特別的存在，且運作的也很好，退幹的學長姐也會時常回社團與大家交流。,,,
+創客俱樂部社團活動通常在哪裡舉辦,創客俱樂部的實驗室在交大校區工程四館 417B-1 室。當在校內舉辦活動時，我們通常會就近借用隔壁的 417B（AaPaTo Space）。確切活動位置，請參閱你要參加活動的說明或貼文，或者私訊 Facebook 粉絲專頁、聯絡幹部喔！,"Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部社團活動在幹嘛,本社會參加許多校內校外的、與創客性質相契合的競賽。也會透過舉辦寒暑期的營隊，或與各級政府或教育單位合作，將創客的精神推廣出去，並促進校內創客與工程領域的風氣。歡迎大家來當工人～,,,
+創客俱樂部社團活動地點,創客俱樂部的實驗室是交大校區工程四館 417B-1 室。當舉辦活動時，我們會就近借用隔壁的 417B（AaPaTo Space）。不過確切的活動位置，還是要看你要參加的活動的說明或貼文，或者私訊 Facebook 粉絲專頁、聯絡幹部喔！,"Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部社團活動時間為何,通常在禮拜三的晚上，18:00~21:00。然而有時候也會選在其他週間的晚上。請參考 Facebook 粉絲專頁，獲取最新消息喔！,"Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部社團活動一定要出席嗎,不需要喔！我們的社課與茶會等活動會需要支付材料費，你可以選擇自己喜歡的社課再報名。如果你有報名但是不克出席，你可以透過我們的 Facebook 粉絲專頁或社員的 Messenger 大大群，跟幹部們約時間來補喔！,"Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部社團活動沒到會怎樣,不會怎麼樣喔！由於我們的社課會需要支負材料費，你可以選擇自己喜歡的社課再報名。如果你有報名但是不克出席，你可以透過我們的 Facebook 粉絲專頁或社員的 Messenger 大大群，跟幹部們約時間來補喔！,"Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部社團活動很多人參加嗎,很多人喔！平均會有 15 人以上的社員，有時候會把 417B 室（社課通常舉辦的地點）擠得滿滿呢！另外我們的材料也有限，所以有興趣要及早報名喔！,,,
+創客俱樂部社課在哪裡,創客俱樂部的實驗室在交大校區工程四館 417B-1 室。當舉辦活動時，我們會就近借用隔壁的 417B（AaPaTo Space）。確切活動位置，請參閱你要參加活動的說明或貼文喔！,"Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部社課在幹嘛,講師與助教（也就是我們的教學幹部們啦 XD）會引領你切割、焊接、自訂與設計你的成品。課程結束後，你就會學到各種不論是資訊或電機、硬體或軟體工程實務上，必備的技術囉！,,,
+創客俱樂部社課沒到會怎樣,不需要喔！我們的社課與茶會等活動會需要支付材料費，你可以選擇自己喜歡的社課再報名。如果你有報名但是不克出席，你可以透過我們的粉絲專頁或社員的 Messenger 大大群，跟幹部們約時間來補喔！,,,
+創客俱樂部社課時間,通常在禮拜三的晚上，18:00~21:00。然而有時候也會選在其他週間的晚上。請參考 Facebook 粉絲專頁，獲取最新消息喔！,"Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部成員有哪些福利,只需繳納 500 元社費，即成為終生社員，並享有使用社辦器材的權利！創客俱樂部在社課、茶會與寒暑假營隊籌備期間，皆會招募有志一同的人才加入！更多資訊請參考〈Makereal Labs 組織章程〉，或聯絡創客俱樂部 Facebook 粉絲專頁,"Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部會有固定的練習、訓練時間嗎,"目前沒有喔！但是在 113 年上半學期的規劃中，我們預計會在沒有社課的那幾個禮拜舉辦 Maker's Night，開放社辦供大家使用，並提供社員交流的機會。歡迎社員們自由參加！
 
+如果你想知道什麼時候會有社課或社團活動的話，請關注我們的 Facebook 粉絲專頁與 Instagram！","Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部常有比賽或表演嗎,社團內目前還沒有固定會舉辦的比賽，不過在社團內可以輕易找到願意一同打比賽的夥伴。我們平均每學期會揪一次社員去參加校外的創客松，例如 MakeNTU 或梅竹黑客松。,,,
+創客俱樂部會定期舉辦哪些活動,通常在禮拜三的晚上，18:00~21:00。然而有時候也會選在其他週間的晚上。請參考 Facebook 粉絲專頁，獲取最新消息喔！同時我們預計會在沒有社課的那幾個禮拜舉辦 Maker's Night，開放社辦供大家使用，並提供社員交流的機會。歡迎社員們自由參加！另外在每年的寒假及暑假創客俱樂部皆會舉辦創客營將創客精神推廣給高中生們。,,,
+創客俱樂部有參加過什麼校內活動或競賽,我們曾經與交大光影節合作（作品名稱：《重燃光明：深淵cube》）。我們也會參與校內的交大日／學系博覽會，與社博擺攤等等活動。而每年的社團評鑑中，本社也屢屢取得佳績——今年度（112 學年度）更獲得學藝性社團最高殊榮「優等」呢！,交大校區課活組 FB 112 學年度社團評鑑結果： https://www.facebook.com/photo/?fbid=415513707928549&set=a.126539426825980,,
+創客俱樂部有跟哪些社團有長期合作,目前為止，我們並沒有跟任何社團構築長期合作關係。但是我們對於與其他社團合作，保持著開放的態度。歡迎大家來與我們接洽！,,,
+創客俱樂部有跟哪些學校有長期合作,目前為止，我們並沒有跟任何學校構築長期合作關係。然而我們曾與許多機構有過短期的合作，包含開設中一中科學班創客體驗營、開設竹北高中 JS 營、開設花蓮國風國中暑期程式營等。,,,
+創客俱樂部有參加過什麼校外活動或競賽,"我們參加過許多競賽，包含 2024 臺大電機創客松、2023 臺大電機創客松、2023 梅竹黑客松、2022 臺大電機創客松等。我們也曾經接受過 __國立教育廣播電臺__ __青春創學院__ 的訪問。
+另外，我們也會舉辦校外活動，例如過往開設過中一中科學班創客體驗營、開設花蓮國風國中暑期程式營等，且今年預計要開設竹北高中 JS 營。",,,
+創客俱樂部參與校外活動的機會多嗎？,很多喔！我們會參加各式創客松，並且舉辦多個服務性質的營隊，或者與各級政府、教育機關合辦教學活動。你可以自由選擇要不要進來當工人，參與這些活動喔！,,,
+創客俱樂部每年有哪些大型活動,"每年固定會舉辦的大型活動是寒暑假的高中生創客營隊，為期三天的營隊我們會帶給高中生程式設計及電子元件課程，主要內容為教學基礎創客技能、C++、arduino開發板、電子元件實作，同時會加入專案製作的部分，由助教帶領，學習統合程式、電路、組裝、焊接等技能，探索電子元件的拓展與可能性，作為個人專案與創客松發想的重要基礎實作，最後迎接的挑戰創客松，讓學員們發揮創意並結合營隊所學之程式、電子元件。小組實做出自己理想的作品，最後邀請教授來進行評分。
+",,,
+創客俱樂部會很累嗎,身為社員可以享受社團器材使用的福利，但不會有需要勞心勞累的事。身為社團幹部則需要付出較多心力在社團的經營上。,,,
+創客俱樂部厲害嗎,當然厲害。我們社團可是與好多頂尖的學校（如新竹女中、臺中一中）合作過呢！而且我們在 112 學年度的社團評鑑中拿到了優等呢！,交大校區課活組 FB 112 學年度社團評鑑結果： https://www.facebook.com/photo/?fbid=415513707928549&set=a.126539426825980,,
+創客俱樂部好玩嗎,十分有趣喔！你可以體驗自己親手設計、製作到成型的魅力，也可以與學校內的強者們交流、認識、獲取新知。,,,
+創客俱樂部真的可以學習到東西嗎,真的可以喔！你能透過定期舉辦的社團課時間由教學帶領製作炫酷的專案，從其中獲取新知，也可以利用創客俱樂部提供的資源自行學習。,,,
+創客俱樂部跟其他社團不同的地方,創客俱樂部強調創意和創新，鼓勵成員自由發揮想像力，進行創作和實驗。相比之下，其他社團如體育社團或文化社團，可能更多專注於既定項目或活動，同時創客俱樂部強調動手實踐，成員通過實際製作來學習和應用知識，這與一些以理論學習為主的學術社團形成鮮明對比。總的來說，創客俱樂部以其強調創新、實踐和跨學科合作的特點，並為成員提供了一個充滿挑戰和機遇的學習和成長平台。,,,
+創客俱樂部有社群帳號嗎,"有喔！我們的社群帳號如下：
+- Facebook 粉絲專頁「交大創客俱樂部 Makereal Labs NCTU」 https://www.facebook.com/Makereal.Labs 
+- Instagram 「makereallabs_nctu」 https://www.instagram.com/makereallabs_nctu/ 
+- YouTube「Makereal Labs NCTU 交大創客俱樂部」 https://www.youtube.com/@MakerealLabs ",,,
+創客俱樂部的社群帳號,"我們的社群帳號如下：
+- Facebook 粉絲專頁「交大創客俱樂部 Makereal Labs NCTU」 https://www.facebook.com/Makereal.Labs 
+- Instagram 「makereallabs_nctu」 https://www.instagram.com/makereallabs_nctu/ 
+- YouTube「Makereal Labs NCTU 交大創客俱樂部」 https://www.youtube.com/@MakerealLabs ",,,
+創客俱樂部的官方網站,本社的社團官網如下： https://makereallabs.nycu.me ,,,
+創客俱樂部的 FB,"請在 Facebook 上搜尋「交大創客俱樂部 Makereal Labs NCTU」https://www.facebook.com/Makereal.Labs
+我們會在 Facebook 上不定時上傳課程資訊與社團大小事",,,
+創客俱樂部的 IG,"請在 Instagram 上搜尋「makereallabs_nctu」 https://www.instagram.com/makereallabs_nctu/ 
+我們會在 Instagram 上不定時上傳課程資訊與社團大小事",,,
+創客俱樂部的 YouTube,"請在 YouTube 上搜尋「Makereal Labs NCTU 交大創客俱樂部」 https://www.youtube.com/@MakerealLabs 
+如果創客俱樂部有課程錄影的話，通常會上傳到這個頻道（設為非公開）。",,,
+創客俱樂部的 Email,"本社的 Email 帳號如下： makereallabsnctu@gmail.com
+但是有簡單的、較不正式的問題時，建議先前往 Facebook 粉絲專頁私訊詢問喔！",Facebook： https://www.facebook.com/Makereal.Labs ,,
+創客俱樂部的社長是怎麼產生的,"依照〈Makereal Labs 組織章程〉第 6 條第 1 項，本社的所有幹部之產生方式為
+> 由前任幹部遴選下任幹部，以面談及幹訓表現作為遴選標準。
 
-Why I am suggesting this way is once you learn it you will love it. 
-And it will be SUPER USEFUL in your career when you get a data analyst jobs. Companies love folks who are capable of finding their answers on their own (Using Google, ChatGPT etc.)"
-"Hey all, I've been trying this for past one hour but not working. 
-I am getting this error in my SQL code, what could be wrong?","Go to ChatGPT (https://chat.openai.com/) and type this command
+而實務上，有意願成為社長者可以在寒假創客營中擔任工人，並向前任幹部表明想要擔任社長的意願。",社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部有哪些幹部,"如同一般社團，首先我們有社長、副社長在帶領社團方向，以及總務在管理財務。
+再來，我們設有教學負責研發課程與專案，以及開設社課。
+還有，我們有美宣與公關，負責發文、寄信通知小隊員，與宣傳課程內容。
+最後，我們有文書、雲端長與機動，負責整理社團的智慧財產與記錄會議內容。
 
-Debug me this code ( copy paste your code) and also provide the error you are getting
+創客俱樂部第九屆之任期為 112 下半至 113 上半學年度。全員名單如下：
+- 社長：簡惠心
+- 副社長：潘仰祐
+- 教學：曾豊茗、林子鈞、呂杰軒
+- 教學兼美宣：洪翠憶
+- 教學兼簡報長：許哲瑋
+- 總務：王嵐
+- 公關兼網頁：張芷瑄
+- 雲端長兼攝影師兼文書：呂沁儒
+- 公關兼營期總務：何昕恩",,,
+創客俱樂部的幹部要做哪些事情,依照幹部的職位不同，有相異的工作內容。可參考〈Makereal Labs 組織章程〉第 5 條對於幹部職位、幹部數量、幹部職務內容的規定。,社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部的幹部會很累嗎,說實在蠻累的。為了要維持社團營運、準備活動或研發課程，保守估計每週會花上八到九個小時。建議擔任幹部者在任期間只修讀必修學分（不要超過 18 學分），以免蠟燭兩頭燒。,,,
+創客俱樂部的幹部會需要比別人花更多時間在社團上嗎,會。比起社員約三個小時，幹部通常每週會花上至少八到九個小時。所以建議擔任幹部者在任期間，只修讀必修學分（不要超過 18 學分），以免蠟燭兩頭燒。,,,
+創客俱樂部學長姐人好嗎,學長姐人都很好，並沒有學長姐學弟妹制度。而且學長姐常常會在舉辦活動時回來社團，協助我們。他們也不吝於與學弟妹分享在學校相關的經歷、學校的一些奇聞軼事、在學校生活的注意事項等等。,,,
+創客俱樂部的成立宗旨是什麼,"聚焦技術  實踐創客精神
+我們不只作夢，我們也「做」夢 !
+藉由彼此的交流與分享，一起學習與成長",,,
+創客俱樂部的成立目的是什麼,"Makereal Labs = Maker x real Labs
+我們不只作夢，我們也「做」夢 !
+藉由彼此的交流與分享，一起學習與成長",,,
+創客俱樂部會有定期會議嗎,"創客俱樂部在每年會至少有一次社員大會。幹部會在社員大會上，向社員報告活動計劃。如果有社員提案，亦於此時表決。
+另外，如果身為幹部，則需要定期參加幹部會議，討論社團的發展內容、追蹤與推進活動與課程的規劃進度，與互相交辦待做的事項。",,,
+創客俱樂部定期會議都在討論什麼,"以每年至少一次的社員大會而言，幹部會發表活動計劃。如果有社員提案，也會在此會議上表決。
+而以幹部會議而言，幹部們會在會議中討論要不要接下某些活動，並且互相追蹤活動的進度、交辦要完成的事情。",,,
+創客俱樂部有哪些分支或小組,沒有明文規定的分支或小組。但是在創客松競賽時，比較熟悉、曾經共事過的社團成員通常會自己組隊，進行比賽。,,,
+創客俱樂部的分支或小組在幹嘛,我們沒有分支或小組的概念。如果想要自己組成創客松競賽時的小組，可以與自己相處較好的社團成員組隊。,,,
+創客俱樂部在學校的影響力為何,學校的系所（如電機系）常常會跟我們合作，而我們的社員也超過百人，在學校中著實算是佔有一席之地啊！,,,
+創客俱樂部對學校的貢獻為何,我們會與校內的許多團體合作，把所學與實務相結合，讓交大的學生不再是空談理論！,,,
+創客俱樂部對學校有哪些貢獻,我們會與校內的許多團體合作，把所學與實務相結合，讓交大的學生不再是空談理論！,,,
+創客俱樂部對新成員有培訓計畫嗎,在社課中，我們會教導新成員所有足以他們完成該課程的技能，透過「做中學」的方式培訓他們。學員也可以到下學期將開設的 Maker's Night，請幹部與學長姐們帶領使用 3D 列印機、雷切機等等裝置喔！,,,
+創客俱樂部的運作模式是什麼,我們每個學期會舉辦兩次社課，教導其他社員關於電子零件的應用等,,,
+創客俱樂部有沒有提供新生導覽或介紹會,有，我們在學期初的時候會舉辦新生茶會，帶領新社員了解創客的生態。也可以在社團博覽會的時候，來到我們的攤位，詢問問題、與我們互動喔！,,,
+哪裡可以知道創客俱樂部提供的新生導覽或介紹會資訊,我們會參加社團博覽會，同時我們有 Instagram 與 Facebook 可以讓社員了解有關我們的資訊。歡迎大家關注 Facebook，在我們要在社團博覽會擺攤、要舉辦迎新茶會時來找我們！但是，你也可以私訊 FB 粉專，表明你想入社，並與我們排定認識社團的時程喔！,,,
+創客俱樂部有沒有定期的社團聚會,預計從下個學期開始，在沒有舉行社課的每個禮拜，我們會舉辦 Maker's Night 來聯繫社員之間的感情。歡迎大家關注 Facebook 消息，社員也請隨時注意 Messenger 大大群喔！,,,
+創客俱樂部定期的社團聚會在幹嘛,預計於下個學期（113 學年度上學期）開始，我們會在沒社課的禮拜有 Maker's Night。那時我們會帶領新進的社員使用社團機器，並且教導大家認識電子材料。歡迎大家來參與！,,,
+創客俱樂部有哪些內部交流或學習的機會,我們內部會舉辦社課，來讓社員對電子材料有進一步的認識。預計於下個學期（113 學年度上學期）開始，我們會在沒社課的禮拜有 Maker's Night。那時我們會帶領新進的社員使用社團機器，並且教導大家認識電子材料。歡迎大家來參與！,,,
+創客俱樂部有沒有參與志願服務或公益的活動,有喔！我們參加過的非營利、公益性質的活動很多，如 112 年暑假至花蓮國風國中開設 Pygame 營隊，教導當地學童如何使用 Python 製作小遊戲。113 年暑假，我們也將至國立竹北高中開設公益性質 JavaScript 工作坊，希望能啟發高中生對於電機資工方面的興趣。另外，我們辦理過多次面向女高中生的 STEM 工作坊，希望能打破性別刻板印象，促進性別平權！,,,
+創客俱樂部參與過哪些志願服務或公益的活動,我們參加過的非營利、公益性質的活動有很多，如 112 年暑假至花蓮國風國中開設 Pygame 營隊，教導當地學童如何使用 Python 製作小遊戲。113 年暑假，我們也將至國立竹北高中開設公益性質 JavaScript 工作坊，希望能啟發高中生對於電機資工方面的興趣。,,,
+創客俱樂部得過哪些名次,"我們得過的獎項，可是多得不勝枚舉呢！舉這幾年為例：
+- 2024 臺大創客松 MakeNTU：企業獎慧榮科技第二名、企業獎友達光電第三名
+- 2023 梅竹黑客松：創客交流組第二名、企業獎台積電第三名
+- 2023 臺大創客松 MakeNTU：大會獎最佳創意獎、大會獎最佳解決方案獎、企業獎義法半導體第三名、企業獎英飛凌科技第二名
 
+再更之前，還有更多獎項呢！",,,
+創客俱樂部得過哪些獎項,"我們得過的獎項，可是多得不勝枚舉呢！舉這幾年為例：
+- 2024 臺大創客松 MakeNTU：企業獎慧榮科技第二名、企業獎友達光電第三名
+- 2023 梅竹黑客松：創客交流組第二名、企業獎台積電第三名
+- 2023 臺大創客松 MakeNTU：大會獎最佳創意獎、大會獎最佳解決方案獎、企業獎義法半導體第三名、企業獎英飛凌科技第二名
 
-Why I am suggesting this way is once you learn it you will love it. 
-And it will be SUPER USEFUL in your career when you get a data analyst jobs. Companies love folks who are capable of finding their answers on their own (Using Google, ChatGPT etc.)"
-when I am entering the index match formula in the cell outside the table it is working and when i enter the same formula inside the table cell it is showing a SPILL! error ..why?,"Go to ChatGPT (https://chat.openai.com/) and ask this same question.
+再更之前，還有更多獎項呢！",,,
+創客俱樂部參與過哪些活動,我們不定時會參加各式創客競賽，例如每年的 MakeNTU 臺大創客松與梅竹黑客松。我們幹部也偶爾會一同出去考察，例如參加 SITCON 學生計算機年會（2024）。,,,
+創客俱樂部舉辦過哪些活動,"- 舉辦寒、暑假創客營隊，帶領學員接觸創客的領域，體驗其中的樂趣，打造國家未來的人才。
+- 承接女中 STEM 工作坊計劃案：鼓勵女高中生接觸大一電機的知識，打破性別刻板印象、促進平等。
+- 社課：創客社的教學會自主研發專案，並帶領社員以「做中學」的方式獲得技能。
+- 社員大會：每年至少會有一次。
+- 服務性質（無盈利）的營隊：如去年我們到花蓮國風國中服務過，帶領偏鄉學子學習 Pygame。",,,
+創客俱樂部的經費來源有哪些,我們經費的來源，主要是舉辦暑假創客營與寒假創客營的盈餘。除此之外，接下各級政府機關或教育單位的委託案，與擔任女性 STEM 教育的創客講師等等，也是我們的不時的收入來源噢！,,,
+創客俱樂部如何使用經費,"根據〈Makereal Labs 組織章程〉第 8.1 條第 2 項：
+> 款項之運用，應另以細則訂之。
 
-Why I am suggesting this way is once you learn it you will love it. 
-And it will be SUPER USEFUL in your career when you get a data analyst jobs. Companies love folks who are capable of finding their answers on their own (Using Google, ChatGPT etc.)"
-I am not allowing to post doubt in the discord group,"Sure I can guide you
+所以，我們會依照制定好的規則，妥善地使用經費。目前細則之大綱如下：使用經費需要先寫一份預算書，並找社長說明，社長同意後方可使用這筆經費，在購買時需要打上本校統編，最後再向總務請款。",社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部的社團經費都用在哪方面,大多用在教學研發與材料採購上（電子零件消耗很快的！），佔了 60%。,,,
+創客俱樂部的經費使用比例,教學研發與材料採購約占 60%，其他舉辦活動的採購費用約佔了 30%，剩下就是社團的零食與公共用品囉！,,,
+創客俱樂部的經費使用是否透明化,有喔！我們都會把帳本與發票明細發在公共的雲端上，所有幹部皆可瀏覽！如果你是社員的話，請找總務取得檢視喔！,,,
+創客俱樂部的經費使用會讓社員知道嗎,有喔！我們都會把帳本與發票明細發在公共的雲端上，所有幹部皆可瀏覽！如果你是社員的話，請找總務取得檢視喔！,,,
+創客俱樂部要繳社費嗎,要入社時，需要繳交一次性的 500 元社費。此後就終生享有社員的權利與義務喔！（此後每堂社課原則上減免 300 元，與可以借用社辦器械等等的福利。詳情請見〈Makereal Labs 組織章程〉）,社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部繳社費有什麼好處,可以終生享有社員的權利與義務喔！包含原則上減免 300 元，與可以借用社辦器械等等的福利。詳情請見〈Makereal Labs 組織章程〉。,社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部繳社費跟沒繳社費差別在哪裡,"你會損失社員的福利喔。
+- 原則上，我們每堂社課會給社員減免 300 元。繳交社費後，你只要參加兩次社課就能回本了。
+- 社員可以借用社辦的器材等等，但是非社員不可以喔！",,,
+創客俱樂部的社費有多少是回饋給社員,基本上，付 500 元社費就享有終生每堂社課減免 300 元，超級賺的！社員的社費也主要是用來購買社團的耗材、整修社團的裝置等等。可說是都回饋給了社員呢！,,,
+創客俱樂部目前遇到的問題,"喵？什麼問題？😺
 
-Go to the 'click-here-to-ask-questions' section and verify yourself here by clicking on the checkmark."
-How can I use PowerBI on my Mac system?,"Hi
+好啦言歸正傳，我們社團的運作十分良好，少數的問題是幹部有點太勞累。我們考慮在未來擴招幹部，解決這個問題。請熱衷本社活動的社員們，隨時注意消息喔！",,,
+創客俱樂部面臨的主要挑戰是什麼,本社的課程，比起其他社團，持續的週數相對地多。在這個內卷日益嚴重的風氣下，該怎麼讓同學暫時放下手邊的工作、參與社團活動，想必是未來會面臨的主要挑戰吧！,,,
+創客俱樂部有經費上的困難嗎,沒有喔！本社在寒假創客營與暑假創客營時，都會有一筆足夠支撐未來一學期社團事務的進賬，感謝幹部們與工人們的努力。另外，幹部們也會儘可能地接下各級政府機關、教育單位或其他組織的案子，在幫社團賺一點外快的同時，對社會產生正面的影響。,,,
+創客俱樂部很多人嗎,幹部現任有 11 人喔！而社員的總數實在是太多了，不翻社員名單還數不清呢——誰叫我們是個百人大社呢！,,,
+創客俱樂部的未來發展方面是什麼,我們以舉辦交大黑客松為目標，希望未來能吸引各大學的創客前來比賽。在提升本社影響力的同時，促進本校工程領域的實作風氣！,,,
+創客俱樂部未來有哪些計畫,我們會前往竹北高中舉辦工作坊、參加交大台灣與沙烏地阿拉伯的創客實作活動。下學期（113 學年度上學期）開始，我們將會在沒有社課的那幾週舉辦 Maker's Night（定期社員聚會），歡迎大家來參與！,,,
+創客俱樂部未來的規劃,我們會前往竹北高中舉辦工作坊、參加交大台灣與沙烏地阿拉伯的創客實作活動。下學期（113 學年度上學期）開始，我們將會在沒有社課的那幾週舉辦 Maker's Night（定期社員聚會），歡迎大家來參與！,,,
+創客俱樂部未來希望達成的目標,我們希望可以效仿臺大，舉辦交大自己的黑客松！如此一來，我們能使更多人對工程領域感興趣，也能推廣創客風氣。,,,
+創客俱樂部現在積極在改進的部分,我們正在試圖讓研發的過程、社課的內容更為環保。另外，我們也努力地在把社團事務電子化跟透明化。請大家不吝指教！,,,
+創客俱樂部過去的豐功偉業,我們每次在各類型的創客松（如臺大創客松 MakeNTU、梅竹黑客松等等）都能夠入圍拿獎！企業贊助賺起來！,,,
+創客俱樂部畢業成員還可以參加社團活動嗎,當然可以！只要你已經加入創客俱樂部，就可以繼續用與社員同等的優惠待遇參加活動。,,,
+創客俱樂部畢業成員參加社團活動需要繳錢嗎,只要繳交 500 元社費者即成為社員。但因為材料價格較為高昂的緣故，畢業社員依然需要如在學社員般繳交社課費用。然而畢業之後，將仍保有與社員同等的優惠待遇，可以在參與社團活動時獲得相同的抵免。,,,
+創客俱樂部的畢業成員還會參加社團活動嗎,會的！很多學長姊都會自發性地作為活動中的機動人員，回來參加與協助我們面向高中生的寒暑假創客營！,,,
+創客俱樂部發生過最有趣的事情,我們的副社每天都會很有趣地唱歌,,,
+創客俱樂部發生過最感人的事情,我們的副社每天都會很感人地唱歌,,,
+創客俱樂部發生過最熱血的事情,我們的副社每天都會很熱血地唱歌,,,
+創客俱樂部發生過最振奮人心的事情,我們副社每天都會唱歌振奮人心,,,
+創客俱樂部的成員多來自哪些系所,本社的成員大多來自電機系、資工系、光電系與機械系等工程領域科系，或者其延伸的院所。然而我們依然歡迎其他系所的成員加入，例如本屆（第九屆）的其中一個教學就是管科系的！,,,
+創客俱樂部有社團logo嗎,"在歷屆的更迭中，我們有許多社團 Logo 不斷出現而沿用至今。目前最常見的有兩款 Logo：
+ - 一款使用於我們的 Facebook 與 Instagram ，以黃與藍為主色調，將創左側的「倉」偏旁繪製成電路板上接線的一部分，並將右側的「刂」偏旁繪製成象徵靈感的黃色燈泡的一部分。
+ - 另一款使用於我們 Github 與 YouTube 上。以藍色與黑色為主色調，將象徵創意的大腦繪製於宛若銀河系的星點上，並在下方寫下大大的 Makereal Labs。",,,
+創客俱樂部logo設計想法是什麼,"在歷屆的更迭中，我們有許多社團 Logo 不斷出現而沿用至今。目前最常見的有兩款 Logo：
+ - 一款使用於我們的 Facebook 與 Instagram ，以黃與藍為主色調，將創左側的「倉」偏旁繪製成電路板上接線的一部分，並將右側的「刂」偏旁繪製成象徵靈感的黃色燈泡的一部分。
+ - 另一款使用於我們 Github 與 YouTube 上。以藍色與黑色為主色調，將象徵創意的大腦繪製於宛若銀河系的星點上，並在下方寫下大大的 Makereal Labs。",,,
+創客俱樂部過去舉辦了哪些活動,"- 舉辦寒、暑假創客營隊，帶領學員接觸創客的領域，體驗其中的樂趣，打造國家未來的人才。
+- 承接女中 STEM 工作坊計劃案：鼓勵女高中生接觸大一電機的知識，打破性別刻板印象、促進平等。
+- 社課：創客社的教學會自主研發專案，並帶領社員以「做中學」的方式獲得技能。
+- 社員大會：每年至少會有一次。
+- 服務性質（無盈利）的營隊：如去年我們到花蓮國風國中服務過，帶領偏鄉學子學習 Pygame。",,,
+創客俱樂部過去舉辦的活動對社團成員有何影響或貢獻,每次舉辦活動，都會加深社團的向心力。每次我們舉辦活動都會有不少的社員參加，在互相合作、磨合的過程中，在努力學習、準備的過程中，往往會獲得意想不到的收穫。,,,
+創客俱樂部過去舉辦的活動對校園有何影響或貢獻,本社提升了本校的創客風氣與工程領域的實作風氣，並讓工程領域的菁英有一個交流的好地方，也使得非工程領域的同學有學習的場所。本社亦常有蘊含美感之專案。是故，本社作為學藝性社團，在學術與藝術方面皆對學校有所貢獻。,,,
+創客俱樂部未來有什麼計畫或目標,持續增進社團實力，為社員們準備更多更實用的電子元件及設施，並且增取在更多的活動中展露頭角，讓大家了解創客精神,,,
+創客俱樂部有舉辦過回響很大的活動嗎,有喔，創客俱樂部每年寒暑假都會辦理有趣且好玩的創客營，在營期中甚至有舉辦小黑客松，每次報名都爆滿,,,
+創客俱樂部是否有舉辦過募款活動,沒有喔！我們社團有良好的營利模式，並且在舉辦活動時都會量入為出，所以經費可以自給自足。,,,
+創客俱樂部舉辦過什麼募款活動,我們沒有舉辦過募款活動喔！我們社團有良好的營利模式，並且在舉辦活動時都會量入為出，所以經費可以自給自足。,,,
+創客俱樂部是否有與產業界合作,曾經有喔！我們曾與聯發科的卓爾榮譽學會合作。,,,
+創客俱樂部與哪些產業界合作,曾經有喔！我們曾與聯發科的卓爾榮譽學會合作。,,,
+創客俱樂部是否有參與社會服務的活動,創客俱樂部在 112、113 學年度，也預計在 114 學年度開設女高中生 STEM 一日工作坊，我們希望能在高中生端推廣創客與科技風氣；也曾在 112 年暑假至花蓮國風國中開設公益性質 Pygame 營隊，教導當地學童如何使用 Python 製作小遊戲。而在 113 年暑假，我們也將至國立竹北高中開設公益性質 JavaScript 工作坊，希望能啟發高中生對於電機資工方面的興趣。,,,
+創客俱樂部參與過哪些社會服務的活動,創客俱樂部在 112、113 學年度，也預計在 114 學年度開設女高中生 STEM 一日工作坊，我們希望能在高中生端推廣創客與科技風氣；也曾在 112 年暑假至花蓮國風國中開設公益性質 Pygame 營隊，教導當地學童如何使用 Python 製作小遊戲。而在 113 年暑假，我們也將至國立竹北高中開設公益性質 JavaScript 工作坊，希望能啟發高中生對於電機資工方面的興趣。,,,
+創客俱樂部是否有參與環保或永續發展的活動,有喔！我們提倡使用環保材料，如使用廢木料壓制成的密迪板，並且我們正在計畫購買回收塑料作為 3D 列印的印料。,,,
+創客俱樂部參與過哪些環保或永續發展的活動,有喔！我們提倡使用環保材料，如使用廢木料壓制成的密迪板，並且我們正在計畫購買回收塑料作為 3D 列印的印料。,,,
+創客俱樂部是否有參與人權或社會正義的活動,目前沒有喔！但我們歡迎各類合作。,,,
+創客俱樂部參與過哪些人權或社會正義的活動,目前沒有喔！但我們歡迎各類合作。,,,
+創客俱樂部的會議和活動是否有參與度要求,沒有喔，整個社團充斥著一股非常自由的氣氛,,,
+創客俱樂部有沒有國際交流的機會,有的！我們致力於推廣國際交流，社員中有國際生，我們也時常接觸國內外創客社群。,,,
+參與創客俱樂部國際交流的活動有什麼門檻嗎,沒有喔！我們各類活動都歡迎大家參與。,,,
+創客俱樂部的活動頻率如何,創客俱樂部是一個非常活躍的社團組織，每學期會舉辦兩到三次大型社課，帶領社員做出各種有趣的創客專案作品，在寒假以及暑假期間也會舉辦創客營隊，帶領高中生接觸創客領域。另外，從下學期（113 學年度上學期）開始，沒有社課的那幾個禮拜，我們會舉辦 Maker's Night 讓社員一起討論，或者甚至舉辦講座喔！歡迎大家踴躍參與！,,,
+創客俱樂部有參加限制嗎,沒有喔，無論學校、校系、是否為社員、是不是大學生，只要你有興趣，都可以參與我們的活動！,,,
+創客俱樂部的加入條件,想成為創客俱樂部社員的話，只要繳交 500 元入社費給當屆總務，就可以終生享有與社員同等的資格喔！,,,
+創客俱樂部有社團章程嗎,陽明交大社團入口網可以下載組織章程： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,,,
+創客俱樂部社團章程去哪裡看,你可以去陽明交大社團入口網看喔！ https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,,,
+創客俱樂部社團章程重點整理,本社的社團章程規範了以下主題：社員規範、組織架構與營運模式、以及章程修訂規範。,,,
+創客俱樂部社團章程大概在講什麼,本社的社團章程，主要有提到社員的加入方式以及權利、義務、組織架構、幹部遴選方式、組織財務管理、營運模式以及章程修訂規範。,,,
+創客俱樂部的財務如何管理,"根據〈Makereal Labs 組織章程〉第 8.1 條第 1 項：
+> 創客俱樂部設有社團銀行賬戶，印鑑與存簿分別由社長與總務保管。存
+提款須由社長與總務共同前往。",社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部的財務如何分配,"根據〈Makereal Labs 組織章程〉第 8.1 條第 2 項：
+> 款項之運用，應另以細則訂之。
 
-You can use VirtualBox to create a virtual machine and install Windows on it. This will allow you to run Power BI and Excel on your Mac.
+而目前細則之大綱如下：使用經費需要先寫一份預算書，並找社長說明，社長同意後方可使用這筆經費，在購買時需要打上本校統編，最後再向總務請款。",社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部如何處理社團與社團間的衝突,創客俱樂部秉持公正、公平、就事論事的精神，在遇到社團衝突時，會與對方理性討論、共同尋找最好的解法。,,,
+創客俱樂部如何處理社團成員間的衝突,創客俱樂部秉持公正、公平、就事論事的精神，如果有遇到社員間衝突，會請雙方冷靜、並理性溝通，共同尋找最好的解法。,,,
+創客俱樂部對學校有哪些貢獻,創客俱樂部提供學生良好的創客環境，使學生可以有一個互相交流，砥礪技術，發揮創意的地方。同時，社團也會舉辦各式活動，例如社課、營隊、工作坊等，社員可以在這些活動中學習到技術、擴展人脈、同時累積舉辦活動、教學的經驗等。,,,
+創客俱樂部成員的參與情況如何,創客俱樂部主要有當屆幹部以及社員，當屆幹部會負責經營社團一年，主要為開社課、舉辦營隊或者是其他活動，而社員除了可以參與社課、一起舉辦營隊之外，有些退休的學長姐也會舉辦工作坊讓其他社員有機會一起參與!,,,
+創客俱樂部平時活動很多人參加嗎,創客俱樂部會舉辦不同形式的活動，以社課來說，平均會有10人左右參與，而暑、寒假營隊的話我們都會招收到40人以上的學員來參加營隊，並且有超過20人擔任營隊工人。,,,
+創客俱樂部的入社流程很麻煩嗎,創客俱樂部入社非常簡單，只要兩步驟。第一步，填寫入社表單，第二步，繳費。整體流程花不超過五分鐘。,,,
+創客俱樂部的入社流程,創客俱樂部入社非常簡單，只要兩步驟。第一步，填寫入社表單，第二步，繳費。整體流程花不超過五分鐘。,,,
+創客俱樂部適合什麼樣特質的人參加,"創客俱樂部適合以下特質的人參加：
 
-If you're not familiar with setting up a virtual machine, there are many resources available on YouTube that can guide you through the process. Simply search for ""installing virtual machines"" and you'll find plenty of helpful videos.
+1.好奇心強：對新技術、新概念和新方法感興趣，喜歡探索未知領域的人。
+2.創新思維：能夠提出創新想法，並願意嘗試不同的方法來解決問題的人。
+3.動手能力強：喜歡親自動手製作、修理或改造物品，對DIY和手工藝有興趣的人。
+4.協作精神：樂於與他人合作，分享知識和技能，並參與團隊項目的人。
+5.自我驅動：具有自主學習和自我驅動能力，能夠在沒有明確指導的情況下獨立工作和學習的人。
+6.解決問題：喜歡解決實際問題，具有分析和解決問題的能力，並且不怕挑戰和挫折的人。
+7.開放包容：對不同的意見和想法持開放態度，願意接受和學習新的觀點和技術的人。
+8.創業精神：有創業想法或夢想，希望通過自己的努力創造有價值產品或服務的人。
+9.技術熱愛者：對技術、工程、編程、設計等領域有濃厚興趣的人，無論是專業人士還是業餘愛好者。
+10.持續學習者：願意不斷學習和提升自己技能，並保持對新知識和新技術的渴望和熱情的人。
 
-Best of luck with your studies!"
-"In sales analytics chapter , when creating pivot table a blank column is getting added. How to solve this?","Hi, please check these instructions.
+總的來說，創客俱樂部適合那些熱愛創新、動手實踐、願意合作和不斷學習的人參加。這些俱樂部為成員提供了一個自由開放的平台，讓他們能夠發揮創意、實現夢想，並在這個過程中獲得成長和進步。",,,
+創客俱樂部有哪些活動是對外開放的,我們幾乎所有活動都是對外開放的，尤其是 Facebook 粉絲專頁與 Instagram 上公佈的。請隨時關注我們的 Facebook 粉絲專頁喔！如果有任何疑問，也歡迎隨時私訊我們的 Facebook 粉絲專頁喔！,"Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部的主要溝通渠道是什麼,"創客俱樂部與社員的主要溝通渠道，包括但不限於以下幾種：
+1. 即時通訊應用：我們的大大群位在 Messenger，請社員向幹部要求加入！
+2. 電子郵件：本社的 Email 地址為 makereallabsnctu@gmail.com
+3. 社交媒體和網絡平台：本社使用 Facebook 粉絲專頁與 Instagram。如有任何疑問，歡迎私訊","Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu ",,
+創客俱樂部常會有畢業的學長姐回來幫忙嗎,在寒假與暑假創客營時，學長姐們常常會作為機動組的工人，回來幫助我們。在平常的時候，偶爾也會看到歷屆學長姐回到社團的實驗室，這個時候他們也很歡迎學弟妹問問題。,,,
+創客俱樂部的成員凝聚力強嗎,"本社的成員凝聚力很強喔！這大概是因為以下的原因：
+1. 我們有共同目標與興趣
+2. 我們為了打比賽，會有很多事前的準備與合作
+3. 我們之間常互相分享與學習技能
+4. 我們會舉辦很多社課與活動，讓社員可以參與或者當工人
 
-Option - 1:
-If you are from India, you can change your system default date format to India, then restart your computer once. and see, whether it fixed your issue or not. Else you can follow the second option.
+原因不勝枚舉。總之，歡迎大家加入創客俱樂部！",,,
+創客俱樂部裡面的風氣如何,我們具有開放、創新與互相合作、互相學習的風氣。如果你缺少哪個創客技術的話，你可以問社團裡的任何人。總之，不怕做不出來，我們只怕不敢想像！,,,
+創客俱樂部的成員經常會有衝突嗎,由於我們開放包容的風氣，幾乎不會發生衝突。,,,
+創客俱樂部的長遠發展,"在未來五年或十年內，創客俱樂部 Makereal Labs 將致力於以下中長程計畫與目標，以推動台灣生態系的發展：
+1. 建立跨校交流與合作：建立創客社聯合 Discord 群，互相交流社課內容與技術內容。線上錄製 YouTube 影片／將社課內容傳到網路上，以供人免費學習。
+2. 推動綠色創客：專案優先使用環保材料，例如採用以廢木料製成的密底板代替實木。選購回收廢塑膠製成的 3D 列印耗材代替傳統塑膠線。製作專案時，優先從環保方面發想；想辦法進行廢物利用，將垃圾作為專案材料。
+3. 發展創客產業：
+    - 中程規劃：積極參與各類創客相關的創業競賽和活動，並鼓勵社員將自己的創意轉化為具有市場潛力的產品。研發簡單 DIY 材料包，並且於 Github 上免費開源，供人參考。
+    - 長程規劃：尋求與創投、天使投資人和產業界合作，以促進創客產業的發展>將極具潛力的專案發展為產品，並視情況與研發者一同建立公司，締造共榮關係。
+4. 向高中以下各級學校學生提供資源：
+    - 中程規劃：每年寒暑假舉辦創客營，鼓勵高中生來學習創客知識。不定時舉辦服務學習活動，前往偏鄉國小或有合作的高中等等，教學低成本而有技術含量的社課。
+    - 長程規劃：與高中、高職建立長期穩定而正式的合作關係。
+5. 擴大社團影響力至社會各界
+    - 中程規劃：參與明年的學藝性社團展覽。配合創客技術，進行藝術展覽品的開發。
+    - 長程規劃：與當地企業合作，交流技術與合作開發專案；為企業提供創新解決方案，並為社團成員提供實習和工作機會。與居民社區合作，以創客技術解決問題。如參與環保專案、改善公共空間、提升居民生活品質等。舉辦定期的創客嘉年華或創客展覽。",,,
+創客俱樂部的內部規則,我們一視同仁，規則就是規則，不會分內外部分。多數的規則都寫在〈Makereal Labs 組織章程〉了，歡迎大家查閱。,社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5,〈Makereal Labs 組織章程〉（2024 年修訂）,
+創客俱樂部社員參與社團活動的積極性,本社社員都很積極參與我們的社團。不論是社課還是其他活動，從來不怕冷清。有任何報名的時候，先搶先贏！,,,
+創客俱樂部每個學期最主要的活動,寒假與暑假創客營，與每學期至少兩堂的社課，是我們最主要的活動。但是我們還會有不少的小活動、比賽與專案等等，歡迎大家踴躍參與！,,,
+創客俱樂部過去的成就,多到列不出來，以黑客松得到的名次為主。這些獎項從實驗室與社辦的擺滿的獎盃、獎牌就可以知道。如果有空的話，歡迎來參觀！,,,
+學校教授可以參加創客俱樂部嗎,可以喔！不如說，我們十分期待學校教授能參與我們的社團，將他專業領域的知識帶給我們。我們也期待與校內教職員們達成良好的互動關係，甚至是長遠的合作！,,,
+學校的老師可以參加創客俱樂部嗎,可以喔！不如說，我們十分期待學校教授能參與我們的社團，將他專業領域的知識帶給我們。我們也期待與校內教職員們達成良好的互動關係，甚至是長遠的合作！舉例而言，我們的社課常常會有清大的老師來參加呢！,,,
+哪裡可以看到社團博覽會相關資訊,如果想看到本校社團博覽會的相關資訊，請關注學生事務處的最新消息！另外，如果想知道本社的社團博覽會相關資訊，則請隨時關注本社的 Facebook 粉絲專頁與 Instagram！,"學生事務處社團博覽會簡介： https://osa.nycu.edu.tw/osa/ch/app/artwebsite/view?module=artwebsite&id=3518&serno=4355c4f4-5b04-4386-8175-d0f526595479 
+Facebook： https://www.facebook.com/Makereal.Labs 
+Instagram： https://www.instagram.com/makereallabs_nctu",,
+社團博覽會會有創客俱樂部嗎,會喔！每年的社團博覽會，本社一定會參與。歡迎大家在社團博覽會的時候來到我們的攤位上，與我們互動，並且認識創客俱樂部！,,,
+社團博覽會創客俱樂部會有表演嗎,沒有上台表演，但歡迎大家來我們攤位逛逛，看看有趣的創客作品！,,,
+社團博覽會創客俱樂部在幹嘛,我們會擺攤宣傳我們的社團活動與研發作品，歡迎與我們互動！,,,
+參加創客俱樂部可以獲得什麼樣的技能提升,為了創作我們的「夢」，我們會常常接觸到 Arduino 相關工具。所以，像是程式能力、電子元件接線、焊接，甚至設計 PCB 板、3D建模、3D列印、雷切的技能都能有所提升。,,,
+參加創客俱樂部還可以兼顧學業嗎,我們的幹部、社員與學長姐有不少人都是攻讀電資、機械相關科系的，課業都不輕，但大家都能兼顧。不論是在社團、學業、交友方面有任何問題，都能諮詢我們或是學長姐們，因此兼顧學業是沒問題的。,,,
+參加創客俱樂部可以學到什麼,身為創客，會需要用到各方面的技能。因此，像是創意發想、專案規劃、程式能力、硬體設計、焊接、3D建模、雷切等等的技能都能學習到。,,,
+參加創客俱樂部可以獲得什麼好處,我們會定期開設專案型社課。凡是我們的社員，報名我們社課都能享有折價300元或者其他優惠！並且，我們實驗室配有3D列印機、雷切機以及很多電子電路相關工具、零件，我們的社員都能在幹部陪同下使用它們。,,,
+參加創客俱樂部會需要花費很多時間在社團活動上嗎,我們的社課都是自由參加的，因此可以不用花很多時間在社團活動上。,,,
+要怎麼當上創客俱樂部的幹部,只要你是大一學生，並參與寒假創客營的工人，就能向幹部表達有擔任下一屆幹部的意願。經當屆們共同討論後決定是否勝任，他們認為適任的話即可當上下一屆幹部。,,,
+當上創客俱樂部的幹部需要哪些技能,一顆創意的心、喜愛學習的態度，以及擔任幹部的熱忱。只要有心，專業技能都能在當上幹部後再去學習。,,,
+什麼樣特質的人適合當創客俱樂部的幹部,或許是肝很健康的人，還有富有教學、參賽熱忱的人。通常並不是特質決定你能不能當幹部，而是當了幹部後你會學習到必要的特質，包含善於與人協作、懂得時間掌控，喜歡挑戰自我極限等等。,,,
+我想認識新朋友，創客俱樂部適合嗎,適合。在這裡能交到非常多厲害的創客同好！,,,
+我該怎麼跟創客俱樂部取得聯繫,可以聯絡我們的 FB ( https://www.facebook.com/Makereal.Labs )、IG ( https://www.instagram.com/makereallabs_nctu )粉專。,,,
+我什麼都不會，我可以參加創客俱樂部嗎,可以！只要有學習熱忱與創意，都歡迎加入我們。這裡有非常多厲害的幹部與學長姊可以一同交流。,,,
+哪裡可以了解創客俱樂部的資訊,"在我們的 FB、IG 粉專上，就能獲得我們的最新資訊。
+- Facebook： https://www.facebook.com/Makereal.Labs
+- Instagram： https://www.instagram.com/makereallabs_nctu
+只要搜尋「交大創客俱樂部」就能找到我們的粉專囉～
 
-Option - 2:
+另外，你如果是社員的話，請跟任何一個幹部要求加入 Messenger 大大群！",,,
+要怎麼加入創客俱樂部,只要私訊我們 FB、IG 粉專，並於之後繳交社費、加入我們大大群，就能成為我們的一員囉～如果還在猶豫的話，也可以先來我們的茶會、社課聽聽看，我們都很友善的！,,,
+我想加入創客俱樂部，該怎麼做,私訊我們 FB、IG 粉專，並於之後繳交社費、加入我們大大群即可。此外，也可以透過參加我們的茶會、社課來認識我們喔！,,,
+參加創客俱樂部會需要準備什麼嗎,準備好你的創意與熱忱！（還有部分社課的材料費w）多數上課會用到的器材，例如電烙鐵、雷切機、3D 列印機的各種裝置，社員都可以跟社團借用。少部分的耗材如 LED 燈、焊錫與 3D 印料，社員也可以免費取用。其他你需要的技能，我們會帶著你學習！,,,
+哪裡可以知道創客俱樂部舉辦的活動,"請關注我們的 Facebook 與 Instagram 帳號！我們將不定期更新活動資訊！
+- Facebook： https://www.facebook.com/Makereal.Labs
+- Instagram： https://www.instagram.com/makereallabs_nctu
 
-1. Reason for the Issue:
-In the dim_date table, the date is in dd/mm/yyyy format. Whereas the fact table is in mm/dd/yyyy format. Because of the different formats, causing the issue. Power BI/Excel will likely use your system's default date format whenever you open any file. This could cause the date format issue - dd/mm/yyyy --- mm/dd/yyyy. Please look for this whenever you face issues with values mismatch.
+另外，你如果是社員的話，請跟任何一個幹部要求加入 Messenger 大大群！",,,
+哪裡可以知道創客俱樂部舉辦的招募活動,"請關注我們的 Facebook 與 Instagram 帳號！當我們需要辦理大型活動的時候（例如寒暑假創客營，或者服務學習營），我們會透過這些渠道招募工人。
+- Facebook： https://www.facebook.com/Makereal.Labs
+- Instagram： https://www.instagram.com/makereallabs_nctu
 
-2. Steps to resolve:
-    1. Change the data type of the date column to �Date� if it is in �Date/Time� format. Skip this step if it is already in �Date� format.
-    2. Create a new custom column in the fact_sales_monthly table. you can name it date_modified or any other name accordingly.
-    Formula
-    = Date.ToText([date],""yyyy"") & ""/"" & Text.PadStart(Text.From(Date.Day([date])),2,""0"") & ""/"" & Text.PadStart(Text.From(Date.Month([date])),2,""0"")
-    3. change the data type of the above-created column to date.
-    4. In Power Pivot, Go to the 'Manage' tab and select the 'Diagram' view. Map the date column in the 'dim_date' table with the newly created column in the 'fact_sales_monthly' table. Make sure to delete the previous relationship (date from fact_sales_month)."
-"why row and value option is not showing for the visual in PowerBI , any setting need to be change, please let me know?",You have selected Table Visual instead of Matrix. That is why you are seeing a different interface.
-"Hello, I have a issue to calculate WHF%. Can you give me numbers for checklist and debbuging?","Hello 
+另外，你如果是社員的話，請跟任何一個幹部要求加入 Messenger 大大群！",,,
+加入創客俱樂部對學業有何影響,加入創客俱樂部會對你的學業有正向的影響！如果你是資工、電機、光電等工程領域的學生，你將獲得把理論與實務相結合的能力，在構思、創作與實踐中累積經驗與樂趣，所以你在課業內容上不會迷茫。如果你是其他領域的學生，你將成為 π 型人才，獲得你的專業 + 工程領域專業的視野與技能，達到 1 + 1 > 2 的效果！,,,
+參加創客俱樂部後會占用到很多時間嗎,不會！我們的課程與活動，都是給社員自由參與的。你可以在評估自己的時間規劃之後，再選擇性地成為部分活動的工人或下一屆的幹部。,,,
+加入創客俱樂部後，如何平衡學業與社團活動,你可以根據自己的學業情形，選擇要不要參與個別的社團活動或課程。萬一你真的有一些課業上的突發性因素致使你不能來參加創客俱樂部的活動，你也可以臨時請假。我們通常都會針對社課內容錄影，供你可以補課。,,,
+加入創客俱樂部後，一個禮拜要花多久時間在社團活動上,多久時間都可以！看你的時間安排，你可以自由選擇要不要參加各種活動。我們每週的社課或 Maker's Night，平均一週預計只會花上三個小時。但你如果想要在課外時間來到社辦，繼續探索或完成你的作業也可以。,,,
+哪裡可以看到創客俱樂部相關資訊,"在我們的 Facebook 粉絲專頁與 Instagram 上，就能獲得我們的最新資訊。
+- Facebook： https://www.facebook.com/Makereal.Labs 
+- Instagram： https://www.instagram.com/makereallabs_nctu 
+只要搜尋「交大創客俱樂部」就能找到我們的粉專囉～
 
-Please confirm whether you got these values right!
+另外，你如果是社員的話，請跟任何一個幹部要求加入 Messenger 大大群！",,,
+參加創客俱樂部後我還可以參加其他社團嗎,可以的！在本社的〈Makereal Labs 社團章程〉與學校的〈國立陽明交通大學學生社團設置及輔導辦法〉中，皆沒有限制可參加的社團數量。本社也不會給社員很大的負荷。譬如本屆（第九屆）的副社長，就同時參加了創客俱樂部與書法社呢！,"社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 
+國立陽明交通大學學生社團設置及輔導辦法： https://osa.nycu.edu.tw/osa/ch/app/data/doc?module=nycu0014&detailNo=1187646291388141568&type=s ","〈Makereal Labs 組織章程〉（2024 年修訂）
+〈國立陽明交通大學學生社團設置及輔導辦法〉",
+非社團成員可以參加創客俱樂部的社團活動嗎,"可以喔！只要繳納該次社團活動的原價，即可參加活動。社課的價格，皆會公佈於本社的 Facebook 粉絲專頁與 Instagram。
+- Facebook： https://www.facebook.com/Makereal.Labs 
+- Instagram： https://www.instagram.com/makereallabs_nctu",,,
+非社團成員參加創客俱樂部的社團活動會需要繳錢嗎,不論是社員或非社員，由於材料費與其他雜支的緣故，參加社團活動或課程都需要繳錢喔！但是社員會享有一定程度上的折扣優惠，歡迎大家入社！,,,
+非社團成員參加創客俱樂部的社團活動會需要準備什麼嗎,"根據該次社團活動或課程的要求，社員與非社員都需要攜帶要求的器具（通常是手機用的變壓器等等）。請參閱 Facebook 粉絲專頁與 Instagram 上的最新資訊！
+- Facebook： https://www.facebook.com/Makereal.Labs 
+- Instagram： https://www.instagram.com/makereallabs_nctu ",,,
+校外人士可以加入創客俱樂部嗎,依照學校規定，僅陽明交通大學在學生可以成為本校社團之社員。然而校外人士依舊可以在繳交同等的入社費用之後，作為本社社友，享有與社員相當的權利與義務。,,,
+校外人士可以參加創客俱樂部的社團活動嗎,"可以喔！只要繳納該次社團活動的原價，即可參加活動。社課的價格，皆會公佈於本社的 Facebook 粉絲專頁與 Instagram。
+- Facebook： https://www.facebook.com/Makereal.Labs 
+- Instagram： https://www.instagram.com/makereallabs_nctu",,,
+校外人士參加創客俱樂部的社團活動會需要繳錢嗎,不論是社員或非社員、校內或校外人士，因為材料費與其他雜支，參加社團活動或課程都需要繳錢喔！但是可以透過繳交社費後，成為社友並享有一定程度上的折扣優惠。歡迎大家成為社友！,,,
+校外人士參加創客俱樂部的社團活動會需要準備什麼嗎,"根據該次社團活動或課程的要求，各類參與者都需要攜帶要求的器具（通常是手機用的變壓器等等）。請參閱 Facebook 粉絲專頁與 Instagram 上的最新資訊！
+- Facebook： https://www.facebook.com/Makereal.Labs 
+- Instagram： https://www.instagram.com/makereallabs_nctu ",,,
+加入創客俱樂部後有什麼責任,"依照〈Makereal Labs 組織章程〉第 4 條第 5 項
+> 社員應遵守本社規章、維護財產，及盡繳納社費之義務。
 
-Before Data Cleaning Stats:
-Number of rows: 6336
-Number of distinct employees: 198
-Number of distinct employee_id: 106
+換句話說，如果你要加入社團，你必須繳納社費。繳納之後，如果你要借用社團的器材，就須要遵守本社的相關規範，並儘力不要毀損之。詳細內容請參閱社團入口網上的社團章程。",社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,〈Makereal Labs 組織章程〉（2024 年修訂）,
+我可以參加幾次社團活動之後再決定要不要加入創客俱樂部嗎,創客俱樂部的社課會對外開放，可以在參加幾次社課之後再行決定是否要入社。然而，社員參與社課的費用會有所減免，因此建議在確定自己想要加入這個社團之後盡早入社,,,
+我對創客俱樂部有些問題想問，我該去哪詢問,對創客俱樂部有任何疑問的話，可以私訊社團 Facebook 粉絲專頁與 Instagram 帳號。如果你是社員，也可以直接在 Messenger 大大群詢問。,"- Facebook： https://www.facebook.com/Makereal.Labs
+- Instagram： https://www.instagram.com/makereallabs_nctu
+- 社團官網： https://makereallabs.nycu.me 
+- Email： makereallabsnctu@gmail.com",,
+要怎麼退出創客俱樂部,"依照〈Makereal Labs 組織章程〉第 3 條第 2 項
+> 退社及除名：若有下列任一事項者，經幹部會議後喪失社員資格。
+> ...
+> 4. 自願退社，且以書面敘明理由之社員。
 
-After Data Cleaning Stats:
-Number of rows: 6208
-Number of distinct employees: 99
-Number of distinct employee_id: 74
+因此，你可以書面寫明理由，並選擇適當時機交給當屆幹部，我們便能將你除名。
 
-If these values are not matching, I highly suggest doing the data-cleaning steps correctly (mainly removing duplicates)"
-How do become good and comfortable with SQL?,"To master SQL, we need to practice it every day and keep in touch with it all the time.
+另外，依照第 3 條第 3 項
+> 喪失社員資格者，應於一個月內領取退費。金額以此公式計算：（入社
+時繳納之社費）－（參與社課次數）× 300 －（參與其餘由社團出資之活
+動次數）× 100，若小於零則不退費。
 
----
-Here are some references where you can practice daily. First start with easy problems, then medium, and finally hard questions. Don't directly jump into Hard questions.
-- Hacker rank: https://www.hackerrank.com/domains/sql
-- Leetcode: https://leetcode.com/problemset/database/
-- Datalemur: https://datalemur.com/
----
+請記得領取退費",社團入口網（前往下載組織章程）： https://clubportal.nycu.edu.tw/club/view/info/1046F49F-819B-4645-BDAA-08D7A859F1A5 ,〈Makereal Labs 組織章程〉（2024 年修訂）,
+參加創客俱樂部對職涯發展有幫助嗎,加入創客俱樂部會對你的職涯有正向的影響！如果你是資工、電機、光電等工程領域的學生，你將獲得把理論與實務相結合的能力，在構思、創作與實踐中累積經驗與樂趣，所以你在課業內容上不會迷茫。如果你是其他領域的學生，你將成為 π 型人才，獲得你的專業 + 工程領域專業的視野與技能，達到 1 + 1 > 2 的效果！,,,
+我是創客俱樂部成員，我看得到創客俱樂部的經費使用狀況嗎,看得到喔！你可以隨時找總務取得檢視喔！,,,
+,,,,
+以下可自行新增問題：,,,,
+創客俱樂部幾屆了？,創客俱樂部目前到第九屆了！幹部任期為 112 下半學年度至 113 上半學年度,,,
+創客俱樂部的幹部列表,"創客俱樂部第九屆之任期為 112 下半至 113 上半學年度。全員名單如下：
+- 社長：簡惠心
+- 副社長：潘仰祐
+- 教學：曾豊茗、林子鈞、呂杰軒
+- 教學兼美宣：洪翠憶
+- 教學兼簡報長：許哲瑋
+- 總務：王嵐
+- 公關兼網頁：張芷瑄
+- 雲端長兼攝影師兼文書：呂沁儒
+- 公關兼營期總務：何昕恩",,,
+創客俱樂部的聯絡方式、官網或社群媒體帳號,"- Facebook： https://www.facebook.com/Makereal.Labs 
+- Instagram： https://www.instagram.com/makereallabs_nctu 
+- 社團官網： https://makereallabs.nycu.me 
+- Email： makereallabsnctu@gmail.com",,,
+創客俱樂部的 Github,"本社在 Github 上有一個 Organization 與一個帳號。資訊如下：
+- Organization：請搜尋「Makereal Labs」 https://github.com/Makereal-Labs 
+- 帳號：請搜尋「交大創客俱樂部 Makereal Labs NCTU」 https://github.com/Makereal-Labs-NCTU ",,,
 
-I have created a LinkedIn post attaching some youtube resources which discussed interview-related problems and help to solve interesting questions. check out this too.
-Link:  https://www.linkedin.com/posts/kirandeepmarala_sql-careers-data-activity-7012258071334854656-jRgf?utm_source=share&utm_medium=member_desktop
----
-
-Also, I highly recommend participating in the Codebasics SQL challenge, which has been conducted in the past, as it can help you brush up on your skills and provide an opportunity to test your knowledge further
-Link:  https://codebasics.io/challenge/codebasics-resume-project-challenge  (Challenge #4)"
-Why SUM() function not working in my Excel?,"Because of having  #N/A values, the SUM() function is not working as expected.
-
-so we need to handle this case by filling the #N/A(not available) with 0.
-
-Thread for further explanation: https://discord.com/channels/1090613684163850280/1107909641989525524/1107926537988227073"
-What is the difference between Business Analyst Vs Data Analyst,"While both business analysts and data analysts work with data, they have different focuses and responsibilities. Here are some key distinctions:
-
-1. Focus: Business analysts focus on the business side of things, such as business processes, workflows, and strategies. They use data analysis to identify business problems, opportunities, and solutions. Data analysts, on the other hand, focus on the data itself. They collect, process, and analyze data to extract insights and make data-driven decisions.
-2. Skill set: Business analysts need to have strong communication, problem-solving, and strategic thinking skills, as they often work closely with stakeholders and decision-makers to identify business needs and develop solutions. They also need to have some knowledge of data analysis, such as data visualization and basic statistical analysis. Data analysts, on the other hand, need to have a strong foundation in data analysis and programming skills, such as SQL, Python, etc. They also need to have a good understanding of data visualization and statistical analysis to derive insights from the data.
-3. Tools: Business analysts typically use tools like spreadsheets, business process modeling software, and business intelligence (BI) tools to analyze data and create reports. Data analysts use more advanced tools like statistical software, programming languages, and database management systems to collect, process, and analyze data.
-4. Outputs: Business analysts typically produce reports, presentations, and recommendations based on their analysis of the data. Data analysts produce statistical models, visualizations, and reports to help stakeholders understand the data and make informed decisions.
-
-I recommend watching this video by Dhaval sir which explained more details: https://www.youtube.com/watch?v=7sFRpbPKTG4&t=1s"
-"Can you state the distinction among the SAMEPERIODLASTYEAR(), PARALLELPERIOD(), and DATEADD() function in Power BI?","
-Here is the brief explanation.
-
-SAMEPERIODLASTYEAR() compares the given period with the exact same period of last year as the name suggests. But it has a limitation like King of the chess board - it can go only compare 1 year backward for a given day, month, week, or quarter. If you want to go backward or forward or if you need to go 3 or 6 months/years/days you need to use DATEADD().
-
-DATEADD() is more like the queen of the chessboard. It is very dynamic as it compares a day, month, quarter, year, etc. over any specified no. of time period.
-
-PARALLELPERIOD() works exactly like DATEADD() but there is a minor difference. Parallelperiod() does not work dynamically like DATEADD().
-
-For example, if you use PARALLELPERIOD() to get the previous month's value for dates between 1/5/2023 - 12/5/2023..it will compare these 12 days with the entire previous month of April 2023 (1/4/2023 - 30/4/2023) whereas DATEADD will compare the exact same days (1/4/2023- 12/4/2023).
-
-Likewise, if you use PARALLELPERIOD() to get the previous year's value for dates between 1/1/2023 - 12/5/2023..it will compare this time period with the entire previous year 2022 (1/1/2022 - 31/12/2022) whereas DATEADD will compare the exact same period (1/1/2022- 12/5/2022).
-
-Refer this thread for more info: https://discord.com/channels/1090613684163850280/1106528524023648326
-"
-My Excel Excel VLookup() showing formula instead of result,"Solution1:
-
-Please check the cell type, if it is 'text', change that to 'general', and once hit enter execute the formula.
-
-Solution2:
-
-The primary reason for this issue is the accidental enabling of the 'show formulas' mode.
- To gain more clarity and resolve the problem, please refer to the following resource: https://exceljet.net/articles/excel-shows-formula-not-result"
-I have a doubt regarding Vlookup() giving zero values in Exercise-3.,check this demo video to fix the issue: https://drive.google.com/file/d/1gp0krl2wMN0YhZYja3IKmt59SBsUK7xB/view?usp=share_link
-"i am unable to import data from mysql in power bi ,connector issue is coming continuously i have done all steps according to connector pdf still its not resolving please guide",Please refer to this thread: https://discord.com/channels/1090613684163850280/1107992760105054238/1107993007606730802
-Do data analysts need to learn database design?,"As a data analyst, it is not typically expected that you would be responsible for creating a database from scratch. However, you may be involved in designing the structure and schema of a database, as well as configuring and populating it with data.
-
-Creating a database usually falls under the purview of a database administrator (DBA) or a data engineer. These roles are focused on the technical aspects of database design, implementation, and maintenance.
-
-As a data analyst, your primary responsibilities would typically include querying and analyzing data within an existing database, creating reports and visualizations to communicate insights, and helping to inform business decisions based on data analysis. However, depending on the organization and the specific role, there may be some overlap or variation in responsibilities."
-Can you explain me more about the foreign key?,"A foreign key is a column or set of columns in a table that refers to the primary key of another table. It is used to establish a relationship between two tables in a relational database. The primary key of one table is used as a foreign key in another table to link the data between the tables.
-
-For example, let's say we have two tables in a database: a ""customers"" table and an ""orders"" table. The customer's table has a primary key column called ""customer_id"", and the orders table has a foreign key column called ""customer_id"" that references the ""customer_id"" column in the customer's table.
-
-By establishing this relationship between the two tables, we can ensure that every order in the orders table is associated with a valid customer in the customer's table."
-"I'm experiencing an issue where the target value appears the same in every row, and it is incorrect. Can you please help me understand why this is happening?","That is happening because you are pulling ""market"" from wrong table
-Pull ""Market"" From dim_market
-
-Check out this thread : https://discord.com/channels/1090613684163850280/1108671672434839562/1108672494958817301"
-"Hello Everyone, I am using 2016 excel. So far, I have noticed there are few functions which are not available in 2016 Excel like xlookup, unique etc. is there any option 
-available other than buying new updated version ?","Here are some add-in links. Please go through the videos , you will be able to use those functions in your Excel version. 
-
-? UNIQUE function:
-?? https://youtu.be/wiCH-YTacKU
-
-?XLOOKUP function: 
-?? https://www.youtube.com/watch?v=NWZaM7ZbE3Q
-or,
-?? https://www.youtube.com/watch?v=e60-J_u-K7o
-
-?? https://www.youtube.com/watch?v=TUTMfhCS62M"
-Can someone help me to create same chart exactly like this. I have created more than half of it. I want to add quadrant labels. Low medium high on x & y axis,Check this thread for instructions : https://discord.com/channels/1090613684163850280/1107745807848980490/1107746891418058762
-whenever I am loading fact_sales_monthly table in Power query not all columns are visible,"Have you taken SQL course in Codebasics first ?
-If yes, delete the existing databases in MySQL workbench and re-import again. After this go to 'Home' tab in Power Query and click on Refresh button and see if it works any.
-
-Check this reference too: https://discordapp.com/channels/1090613684163850280/1111180401478746163/1111190746507251732
-"
-The fact_sales_monthly table seems to be missing. Could you please provide information about why it is not available?,Delete the existing databases in MySQL workbench and re-import again. After this go to 'Home' tab in Power Query and click on Refresh button and see if it works any.
-"I am getting this error in PowerBI, 
-
-""there are pending changes in your queries that have havent been applied""
-
-Any suggestions to solve it?","To resolve the annoying message, follow these steps:
-1. Access Power Query by selecting 'Transform Data.'
-2. Click on 'Refresh Preview' and then choose 'Refresh All' to run a refresh on the tables.
-3. After completing the refresh, select 'Close & Apply' to save the changes.
-By following these steps, the annoying message should disappear.
-
-Check this reference for further details: https://community.fabric.microsoft.com/t5/Desktop/quot-There-are-pending-changes-in-your-queries-that-haven-t-been/td-p/1142424
-Hope this helps!"
-"I am encountering an error with the pre-invoice discount where I am receiving ""0"" values. Could you assist me in resolving this issue?","To troubleshoot the issue, please consider the following steps:
-
-1. Verify your data modeling by accessing ""Manage Relationships.""
-2. Review the measures you have created for any potential errors or inconsistencies.
-3. Ensure that the column format is set correctly as the ""Fixed Decimal Number"" type.
-By examining these aspects, you can address the pre-invoice discount error and resolve the issue.
-
-Check this reference for further details: https://discordapp.com/channels/1090613684163850280/1106513101693669466/1106516289905766433
-"
-The year column is missing in the P&L check. How can I resolve this issue and obtain the year column?,"Check this reference:
- https://discord.com/channels/1090613684163850280/1111101322406658098/1111137901816848494"
-There are missing values in the P&L check. How can I address this issue and handle the missing values appropriately?,"Check this reference:
-https://discordapp.com/channels/1090613684163850280/1108980495477395486/1109016973662240848"
-How can I rearrange the column order in the P&L check? I would like to change the order of the columns.,"Check this reference:
-https://discord.com/channels/1090613684163850280/1112342820930453516/1112399292792062022"
-Why is the year 2018 missing or disappeared?,"Check this reference:
-https://discordapp.com/channels/1090613684163850280/1111545547426369637/1111563527753318430"
-I'm experiencing a flat line in the Line chart of the Finance View. How can I address this issue and ensure the chart displays the expected data correctly?,"Check this reference:
-https://discord.com/channels/1090613684163850280/1112243985784774687/1112244353126113302"
-"During the process of creating the line chart for forecast accuracy vs month in the Supply Chain View, I encountered an issue with the visual representation.
-The problem occurred at the 5:00-minute mark. I selected the year 2021, expecting the graph to display data only from September 2020 to August 2021.
-However, instead of the desired timeframe, the chart displayed data from all months between 2017 and 2022.
-
-How to solve and fix this issue?
-","Check this reference:
-https://discordapp.com/channels/1090613684163850280/1113690341929918505/1113750218618445824"
-"It appears that the X-axis of the chart is not starting with the month of September as expected. Instead, it is starting with a different month.
-How to solve this?","Check this reference:
-https://discordapp.com/channels/1090613684163850280/1112567189724213339/1112596364862423090"
-Why we use Net error in place of absolute net error,"Directional Insight: The net error metric offers valuable information regarding the direction of the error in forecasting, distinguishing between positive (overestimation) and negative (underestimation) values. This enables the identification of specific products that consistently outperform or underperform relative to the expected values. Additionally, net error provides insights into the risk factor, indicating if there are instances of stockouts or excessive inventory levels."
-"I am encountering an issue where the NIS IND column has the same value in all rows. As a result, I am unable to obtain the correct value for the benchmark variable.
- How can I address this problem and obtain accurate benchmark values?","Have you taken the 'market' column from dim_market? Can you please check again. 
-
-Check this reference for further details: https://discordapp.com/channels/1090613684163850280/1107202294476443789/1107208944931311647"
-How do I update source in power query ?,"Follow the discord link : 
-
- https://discord.com/channels/1090613684163850280/1114113976616353832/1114121330925768754"
-How do I enable Power Pivot before using it for the first time ?,"Follow the process in the link : 
-
-https://drive.google.com/file/d/1-mO-v52h-YTY1s-v30liBJPu6Yj4OUxb/view?usp=share_link"
